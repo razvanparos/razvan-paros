@@ -10,7 +10,7 @@
   padding: 0px 12%;
 }
 body{
-  background-color: rgb(224, 223, 219);
+  background-color: rgba(224, 223, 219, 0.774);
 }
 
 ::-webkit-scrollbar {
@@ -21,6 +21,7 @@ body{
 }
 ::-webkit-scrollbar-thumb {
   background: black;
+  border-radius: 5%;
 }
 ::-webkit-scrollbar-thumb:hover {
   background: black ;
