@@ -1,0 +1,7 @@
+.projects-card{
+    border: 1px solid #f2f2f2;
+    height: 320px;
+    width: 33%;
+    max-width: 530px;
+    border-radius: 5%;
+}

@@ -16,7 +16,7 @@ function Main() {
         <div className='header-menu'>
             <a href='https://github.com/razvanparos' target='_blank' className='border'><FiGithub className='socials-icon'/></a>
             <a href='https://www.linkedin.com/in/razvanparos-frontend/' target='_blank' className='border'><FaLinkedinIn className='socials-icon'/></a>
-            <a href='https://www.linkedin.com/in/razvanparos-frontend/' target='_blank' className='border'><p className='socials-icon'>CV</p></a>
+            <a href='https://www.linkedin.com/in/razvanparos-frontend/overlay/1718312651555/single-media-viewer/?profileId=ACoAAD3ONOsB0zh_zefve425N3RrQJ9MUCxkXGo' target='_blank' className='border'><p className='socials-icon'>CV</p></a>
         </div>
         
     </Element>

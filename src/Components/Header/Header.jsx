@@ -8,7 +8,7 @@ function Header() {
         <ul className='header-menu'>
             <li><Link activeClass='active' to='main' smooth={true} duration={500} offset={-100}>Home.</Link></li>
             <li><Link activeClass='active' to='skills' smooth={true} duration={500} offset={-30}>Skills.</Link></li>
-            <li><Link activeClass='active' to='projects' smooth={true} duration={500}>Projects.</Link></li>
+            <li><Link activeClass='active' to='projects' smooth={true} duration={500} offset={30}>Projects.</Link></li>
             <li><Link activeClass='active' to='contact' smooth={true} duration={500}>Contact.</Link></li>
         </ul>
     </div>
