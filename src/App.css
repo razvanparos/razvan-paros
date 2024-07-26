@@ -12,18 +12,7 @@
 body{
   background-color: rgba(224, 223, 219, 0.774);
 }
-
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 0px;
 }
-::-webkit-scrollbar-track {
-  background: white;
-}
-::-webkit-scrollbar-thumb {
-  background: black;
-  border-radius: 5%;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: black ;
-  cursor: pointer;
-}
+

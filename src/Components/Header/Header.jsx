@@ -1,22 +1,16 @@
 import './Header.css';
-import { FaLinkedinIn } from "react-icons/fa6";
-import { FiGithub } from "react-icons/fi";
+import { Link } from 'react-scroll';
 
 function Header() {
   return (
-    <div className="header-div padding">
+    <div className="header-div padding" name='main'>
         <h2 style={{fontWeight:800,fontSize:"32px", cursor:"pointer"}}>razvanparos.</h2>
         <ul className='header-menu'>
-            <li className='menu-list-item'>HOME</li>
-            <li>SKILLS</li>
-            <li>PROJECTS</li>
-            <li>CONTACT</li>
+            <li><Link activeClass='active' to='main' smooth={true} duration={500} offset={-100}>Home.</Link></li>
+            <li><Link activeClass='active' to='skills' smooth={true} duration={500} offset={-30}>Skills.</Link></li>
+            <li><Link activeClass='active' to='projects' smooth={true} duration={500}>Projects.</Link></li>
+            <li><Link activeClass='active' to='contact' smooth={true} duration={500}>Contact.</Link></li>
         </ul>
-        <div className='header-menu'>
-            <a href='https://github.com/razvanparos' target='_blank' className='border'><FiGithub className='socials-icon'/></a>
-            <a href='https://www.linkedin.com/in/razvanparos-frontend/' target='_blank' className='border'><FaLinkedinIn className='socials-icon'/></a>
-            <a href='https://www.linkedin.com/in/razvanparos-frontend/' target='_blank' className='border'><p className='socials-icon'>CV</p></a>
-        </div>
     </div>
   );
 }

@@ -1,5 +1,42 @@
 .skills-div{
     max-width: 100%;
-    height: 500px;
-    border: 1px solid red;
+    height: 750px;
+    padding: 80px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+}
+.icon{
+    font-size: 92px;
+}
+.skills-learn{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+.skills-div h2{
+    font-size: 52px;
+}
+.skills-div p{
+    font-size: 28px;
+}
+.skill{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 8px;
+}
+.skill p{
+    font-size: 16px;
+    font-weight: 800;
 }
