@@ -1,7 +1,35 @@
 .projects-card{
-    border: 1px solid #f2f2f2;
-    height: 320px;
+    border: 1px solid rgba(224, 223, 219, 0.774);
+    /* border: 1px solid red; */
+    height: 300px;
     width: 33%;
     max-width: 530px;
     border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: 0px 0px 17px 1px rgba(0,0,0,0.26);
+}
+.project-images{
+    background-color: rgba(224, 223, 219, 0.774);
+    width: 100%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 8px;
+    padding: 8px;
+}
+.project-img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit:contain;
+    filter: grayscale(1);
+    
+}
+
+.projects-card:hover{
+    .project-img{
+        filter: none;
+    }
 }

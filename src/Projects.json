@@ -1,24 +1,33 @@
 [
     {
         "id":0,
-        "title":"titlu",
-        "description":"descriere",
-        "github":"link",
-        "live":"live"
+        "title":"Bankpick",
+        "description":"Mobile app for online banking",
+        "github":"https://github.com/razvanparos/bankpick",
+        "live":"https://bankpick-razvanparos-projects.vercel.app/",
+        "img1":"https://media.licdn.com/dms/image/D4D2DAQHpL5SEhz6H3w/profile-treasury-image-shrink_1920_1920/0/1718314167993?e=1722697200&v=beta&t=sF_ToQl8iSTAOX2nkcqbmY4F5jtfXqaV092sswZJemQ",
+        "img2":"https://media.licdn.com/dms/image/D4D2DAQHpL5SEhz6H3w/profile-treasury-image-shrink_1920_1920/0/1718314167993?e=1722697200&v=beta&t=sF_ToQl8iSTAOX2nkcqbmY4F5jtfXqaV092sswZJemQ",
+        "img3":"https://media.licdn.com/dms/image/D4D2DAQHpL5SEhz6H3w/profile-treasury-image-shrink_1920_1920/0/1718314167993?e=1722697200&v=beta&t=sF_ToQl8iSTAOX2nkcqbmY4F5jtfXqaV092sswZJemQ"
     },
     {
         "id":1,
         "title":"titlu",
         "description":"descriere",
         "github":"link",
-        "live":"live"
+        "live":"live",
+        "img1":"https://media.licdn.com/dms/image/D4D2DAQF3lLLsHWE8nA/profile-treasury-image-shrink_1920_1920/0/1716481382919?e=1722697200&v=beta&t=krKnzD1QA14LfmQJENCKjqDHzQyNM0yFfwGlKDIHZ8M",
+        "img2":"https://media.licdn.com/dms/image/D4D2DAQF3lLLsHWE8nA/profile-treasury-image-shrink_1920_1920/0/1716481382919?e=1722697200&v=beta&t=krKnzD1QA14LfmQJENCKjqDHzQyNM0yFfwGlKDIHZ8M",
+        "img3":"https://media.licdn.com/dms/image/D4D2DAQF3lLLsHWE8nA/profile-treasury-image-shrink_1920_1920/0/1716481382919?e=1722697200&v=beta&t=krKnzD1QA14LfmQJENCKjqDHzQyNM0yFfwGlKDIHZ8M"
     },
     {
         "id":2,
         "title":"titlu",
         "description":"descriere",
         "github":"link",
-        "live":"live"
+        "live":"live",
+        "img1":"https://media.licdn.com/dms/image/D562DAQHW-VmdAPIMAA/profile-treasury-image-shrink_800_800/0/1711037085759?e=1722697200&v=beta&t=N_HHCINouVIDxJzgUmjqzcgcQVoxBvihbinO3zR6TkE",
+        "img2":"",
+        "img3":""
     },
     {
         "id":3,
