@@ -1,18 +1,21 @@
 .contact-div{
     max-width: 100%;
+    height: 300px;
     background-color: white;
     border-top-right-radius: 120px;
     border-top-left-radius: 120px;
     box-shadow: 0px 0px 11px 1px rgba(0,0,0,0.56);
     margin-top: 100px;
+    padding-top: 48px;
+    padding-bottom: 24px;
 }
 .contact-content{
-    padding: 24px 0px;
     height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
+    row-gap: 24px;
 }
 .line{
     border: 1px solid black;
@@ -28,4 +31,41 @@
 .contact-line p{
     font-size: 24px;
     font-weight: 800;
+}
+.contact-lists{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.contact-menu{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    row-gap: 12px;
+}
+.contact-menu2{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    row-gap: 12px;
+}
+.contact-menu li{
+    font-size: 20px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.contact-menu li:nth-child(1){
+    font-size: 24px;
+    font-weight: 700;
+    cursor:default;
+}
+.contact-menu2 li{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.contact-menu2 li:nth-child(1){
+    font-size: 24px;
+    font-weight: 700;
 }
