@@ -50,3 +50,9 @@
     }
     background-color: black;
 }
+
+@media (max-width:768px) {
+    .header-menu{
+        display: none;
+    }
+}

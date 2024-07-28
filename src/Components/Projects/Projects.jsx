@@ -13,9 +13,8 @@ function Projects() {
             return <ProjectCard key={p.id} data={p}/>
           })}
         </div>
-        <h2>More projects on Github</h2>
+        <h2>More projects on my GitHub</h2>
         <a href='https://github.com/razvanparos?tab=repositories' target='_blank' className='border'><FiGithub className='socials-icon'/></a>
-
     </Element>
   );
 }

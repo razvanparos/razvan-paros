@@ -1,4 +1,6 @@
 import './ProjectCard.css';
+import { FaExternalLinkAlt } from "react-icons/fa";
+import { IoLogoGithub } from "react-icons/io";
 
 function ProjectCard(props) {
   return (
@@ -8,8 +10,15 @@ function ProjectCard(props) {
         {props.data.img2!=""?<img className='project-img' src={props.data.img2} alt="" />:''}
         {props.data.img3!=""?<img className='project-img' src={props.data.img3} alt="" />:''}
       </div>
-      
-      <p>{props.data.title}</p>
+      <div className='card-details'>
+        <p>{props.data.title}</p>
+        <p>{props.data.description}</p>
+        <div className='card-links'>
+          <a href={props.data.live} target='_blank'><FaExternalLinkAlt /></a>
+          <a href={props.data.github} target='_blank'><IoLogoGithub /></a>
+        </div>
+        
+      </div>
     </div>
   );
 }

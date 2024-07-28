@@ -6,49 +6,54 @@
         "github":"https://github.com/razvanparos/bankpick",
         "live":"https://bankpick-razvanparos-projects.vercel.app/",
         "img1":"https://media.licdn.com/dms/image/D4D2DAQHpL5SEhz6H3w/profile-treasury-image-shrink_1920_1920/0/1718314167993?e=1722697200&v=beta&t=sF_ToQl8iSTAOX2nkcqbmY4F5jtfXqaV092sswZJemQ",
-        "img2":"https://media.licdn.com/dms/image/D4D2DAQHpL5SEhz6H3w/profile-treasury-image-shrink_1920_1920/0/1718314167993?e=1722697200&v=beta&t=sF_ToQl8iSTAOX2nkcqbmY4F5jtfXqaV092sswZJemQ",
-        "img3":"https://media.licdn.com/dms/image/D4D2DAQHpL5SEhz6H3w/profile-treasury-image-shrink_1920_1920/0/1718314167993?e=1722697200&v=beta&t=sF_ToQl8iSTAOX2nkcqbmY4F5jtfXqaV092sswZJemQ"
+        "img2":"https://media.licdn.com/dms/image/D4D2DAQEyM_Oda10keQ/profile-treasury-image-shrink_1920_1920/0/1718314153454?e=1722715200&v=beta&t=Gmgdniwim3pVq7n33x94Pp7kvFgpAGegV7fSK82oJjo",
+        "img3":"https://media.licdn.com/dms/image/D4D2DAQFiSlDPZehRpQ/profile-treasury-image-shrink_1920_1920/0/1718314076456?e=1722715200&v=beta&t=hLCXmp3WUGr2hXCq83wVPXkK18v0tBf6zzwNLhqPqow"
     },
     {
         "id":1,
-        "title":"titlu",
-        "description":"descriere",
-        "github":"link",
-        "live":"live",
+        "title":"Delivery App",
+        "description":"Food delivery app",
+        "github":"https://github.com/razvanparos/delivery-app",
+        "live":"https://delivery-app-liart-eta.vercel.app/",
         "img1":"https://media.licdn.com/dms/image/D4D2DAQF3lLLsHWE8nA/profile-treasury-image-shrink_1920_1920/0/1716481382919?e=1722697200&v=beta&t=krKnzD1QA14LfmQJENCKjqDHzQyNM0yFfwGlKDIHZ8M",
-        "img2":"https://media.licdn.com/dms/image/D4D2DAQF3lLLsHWE8nA/profile-treasury-image-shrink_1920_1920/0/1716481382919?e=1722697200&v=beta&t=krKnzD1QA14LfmQJENCKjqDHzQyNM0yFfwGlKDIHZ8M",
-        "img3":"https://media.licdn.com/dms/image/D4D2DAQF3lLLsHWE8nA/profile-treasury-image-shrink_1920_1920/0/1716481382919?e=1722697200&v=beta&t=krKnzD1QA14LfmQJENCKjqDHzQyNM0yFfwGlKDIHZ8M"
+        "img2":"https://media.licdn.com/dms/image/D4D2DAQFWmx2zIhv_lg/profile-treasury-image-shrink_1920_1920/0/1716481120313?e=1722715200&v=beta&t=Hktm_ltPBeTFFIb20VtKkD6cN9KKnAfRRhi-nj2Zi-o",
+        "img3":"https://media.licdn.com/dms/image/D4D2DAQEJNc7dtpokmA/profile-treasury-image-shrink_1920_1920/0/1716481322711?e=1722715200&v=beta&t=XDd2HtrqxQhPIJqMDrLN3nYrd-0TOdMglb9wYDZ7_dk"
     },
     {
         "id":2,
-        "title":"titlu",
-        "description":"descriere",
-        "github":"link",
-        "live":"live",
+        "title":"Entertainment App",
+        "description":"Movies and TV series application",
+        "github":"https://github.com/razvanparos/entertainment-app-frontend",
+        "live":"https://entertainment-app-frontend-six.vercel.app/",
         "img1":"https://media.licdn.com/dms/image/D562DAQHW-VmdAPIMAA/profile-treasury-image-shrink_800_800/0/1711037085759?e=1722697200&v=beta&t=N_HHCINouVIDxJzgUmjqzcgcQVoxBvihbinO3zR6TkE",
         "img2":"",
         "img3":""
     },
     {
         "id":3,
-        "title":"titlu",
-        "description":"descriere",
-        "github":"link",
-        "live":"live"
+        "title":"Feedback App",
+        "description":"Create, read, update, and delete product feedback requests",
+        "github":"https://github.com/razvanparos/feedback-app",
+        "live":"https://feedback-app-nine-cyan.vercel.app/",
+        "img1":"https://media.licdn.com/dms/image/D4D2DAQFqGLCTQjARAA/profile-treasury-image-shrink_800_800/0/1711385835321?e=1722715200&v=beta&t=1p-tceNKDhAm38x9A25GHd3Rfd626EuaGU7Kh5D9G80",
+        "img2":"",
+        "img3":""
     },
     {
         "id":4,
-        "title":"titlu",
-        "description":"descriere",
-        "github":"link",
-        "live":"live"
+        "title":"Wallet App",
+        "description":"Money management application",
+        "github":"https://github.com/razvanparos/WalletApp",
+        "live":"https://wallet-app-puce.vercel.app/",
+        "img1":"https://media.licdn.com/dms/image/D562DAQHFN7QAd4p1HQ/profile-treasury-image-shrink_800_800/0/1711037239858?e=1722715200&v=beta&t=goFAbTY42OL-9pYdT-CJ3O6SKYAkQz8YSg7u1LlYXoc"
     },
     {
         "id":5,
-        "title":"titlu",
-        "description":"descriere",
-        "github":"link",
-        "live":"live"
+        "title":"AutoRent",
+        "description":"Car rent application",
+        "github":"https://github.com/razvanparos/auto-rent",
+        "live":"https://auto-rent-pi.vercel.app/",
+        "img1":"https://media.licdn.com/dms/image/D562DAQHsspxbWLipFQ/profile-treasury-image-shrink_800_800/0/1711386663809?e=1722715200&v=beta&t=MyaMoY1kWhrwhsG21NM-jtWT3Qtsm4QVbIcjrGeVs4g"
     }
 ]
     
