@@ -34,7 +34,7 @@ function Contact() {
               <p>razvanparos.</p>
               <div className='line'></div>
             </div>
-            <p>©Copyright {currentYear} | Răzvan Paroș | All rights reserved</p>
+            <p style={{textAlign:'center'}}>©Copyright {currentYear} | Răzvan Paroș | All rights reserved</p>
           </div>
          
        </div>
