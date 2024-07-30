@@ -1,4 +1,5 @@
 .header-div{
+    position: relative;
     background-color: white;
     max-width: 100%;
     height: 100px;
@@ -21,6 +22,16 @@
     display: flex;
     column-gap: 24px;
     font-size: 22px;
+}
+.header-menu-mobile{
+    transition: 0.3s;
+    height: 70%;
+    list-style: none;
+    display: flex;
+    font-size: 22px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
 }
 .header-menu li{
     transition: 0.2s;
@@ -56,10 +67,99 @@
     }
     background-color: black;
 }
+.burger {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    background: transparent;
+    cursor: pointer;
+    display: none;
+    scale: 0.6;
+  }
+  
+  .burger input {
+    display: none;
+  }
+  
+  .burger span {
+    display: block;
+    position: absolute;
+    height: 4px;
+    width: 100%;
+    background: black;
+    border-radius: 9px;
+    opacity: 1;
+    left: 0;
+    transform: rotate(0deg);
+    transition: .25s ease-in-out;
+  }
+  
+  .burger span:nth-of-type(1) {
+    top: 0px;
+    transform-origin: left center;
+  }
+  
+  .burger span:nth-of-type(2) {
+    top: 50%;
+    transform: translateY(-50%);
+    transform-origin: left center;
+  }
+  
+  .burger span:nth-of-type(3) {
+    top: 100%;
+    transform-origin: left center;
+    transform: translateY(-100%);
+  }
+  
+  .burger input:checked ~ span:nth-of-type(1) {
+    transform: rotate(45deg);
+    top: 0px;
+    left: 5px;
+  }
+  
+  .burger input:checked ~ span:nth-of-type(2) {
+    width: 0%;
+    opacity: 0;
+  }
+  
+  .burger input:checked ~ span:nth-of-type(3) {
+    transform: rotate(-45deg);
+    top: 28px;
+    left: 5px;
+  }
+  .dropdown{
+    transition: 0.5s;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    height: 0px;
+    left: 0px;
+    width: 100%;
+    display: none;
+    box-shadow: 0px 0px 4px #0003;
+  }
+  .open{
+    height: 250px;
+    overflow: hidden;
+  }
+  .close{
+    height: 0px;
+    visibility: hidden;
+    overflow: hidden;
+    pointer-events: none;
+  }
 
 @media (max-width:768px) {
     .header-menu{
         display: none;
+    }
+    .burger{
+        display: block;
+    }
+    .dropdown{
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
 @media (max-width:425px) {
@@ -71,5 +171,8 @@
     }
     .header-div{
         height: 70px;
+    }
+    .dropdown{
+        top: 70px;
     }
 }
