@@ -22,7 +22,7 @@ function Contact() {
               <li>razvanparos21@gmail.com</li>
               <li>+40 721474061</li>
             </ul>
-            <div className='header-menu'>
+            <div className='header-menu2'>
               <a href='https://github.com/razvanparos' target='_blank' className='border'><FiGithub className='socials-icon'/></a>
               <a href='https://www.linkedin.com/in/razvanparos-frontend/' target='_blank' className='border'><FaLinkedinIn className='socials-icon'/></a>
               <a href='https://www.linkedin.com/in/razvanparos-frontend/overlay/1722204895839/single-media-viewer/?profileId=ACoAAD3ONOsB0zh_zefve425N3RrQJ9MUCxkXGo' target='_blank' className='border'><p className='socials-icon'>CV</p></a>
@@ -34,7 +34,7 @@ function Contact() {
               <p>razvanparos.</p>
               <div className='line'></div>
             </div>
-            <p style={{textAlign:'center'}}>©Copyright {currentYear} | Răzvan Paroș | All rights reserved</p>
+            <p className='copyright'>©Copyright {currentYear} | Răzvan Paroș | All rights reserved</p>
           </div>
          
        </div>

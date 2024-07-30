@@ -69,10 +69,14 @@
     font-size: 24px;
     font-weight: 700;
 }
-@media (max-width:425px){
+@media (max-width:425px) {
     .contact-div{
         border-top-left-radius: 40px;
         border-top-right-radius: 40px;
+    }
+}
+@media (max-width:768px){
+    .contact-div{
         padding: 24px 2px;
         height: 450px;
     }
@@ -86,4 +90,13 @@
         row-gap: 48px;
     }
     
+}
+@media (max-width:425px) {
+    .contact-div{
+        padding: 48px 0px !important;
+        height: fit-content;
+    }
+    .copyright{
+        font-size: 12px;
+    }
 }

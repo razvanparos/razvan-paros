@@ -55,6 +55,12 @@
     }
 }
 
+@media(max-width:1609px){
+    .projects-card{
+        min-width: 49%;     
+    }
+   
+}
 @media (max-width:1100px){
     .projects-viewer{
         justify-content: center;
@@ -84,6 +90,20 @@
     }
     .main-name{
         font-size: 24px;
+    }
+    .skills-div{
+        height: fit-content !important;
+        row-gap: 24px;
+    }
+    .skills-learn > .skill{
+        width: 120px;
+    }
+    .skills-div{
+        padding: 40px 12px !important;
+    }
+    .skills-learn{
+        justify-content: center !important;
+        gap: 24px;
     }
     
 }

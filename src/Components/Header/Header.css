@@ -16,6 +16,12 @@
     column-gap: 24px;
     font-size: 22px;
 }
+.header-menu2{
+    list-style: none;
+    display: flex;
+    column-gap: 24px;
+    font-size: 22px;
+}
 .header-menu li{
     transition: 0.2s;
 }
@@ -54,5 +60,16 @@
 @media (max-width:768px) {
     .header-menu{
         display: none;
+    }
+}
+@media (max-width:425px) {
+    .header-div a{
+        font-size: 24px;
+    }
+    .padding{
+        padding: 0px 24px;
+    }
+    .header-div{
+        height: 70px;
     }
 }
