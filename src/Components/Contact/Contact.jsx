@@ -2,6 +2,8 @@ import './Contact.css';
 import { Link } from 'react-scroll';
 import { FaLinkedinIn } from "react-icons/fa6";
 import { FiGithub } from "react-icons/fi";
+import cv from '../Assets/Răzvan-Paroș-Aug.pdf';
+
 
 function Contact() {
     let currentDate = new Date();
@@ -25,7 +27,7 @@ function Contact() {
             <div className='header-menu2'>
               <a href='https://github.com/razvanparos' target='_blank' className='border'><FiGithub className='socials-icon'/></a>
               <a href='https://www.linkedin.com/in/razvanparos-frontend/' target='_blank' className='border'><FaLinkedinIn className='socials-icon'/></a>
-              <a href='https://www.linkedin.com/in/razvanparos-frontend/overlay/1722204895839/single-media-viewer/?profileId=ACoAAD3ONOsB0zh_zefve425N3RrQJ9MUCxkXGo' target='_blank' className='border'><p className='socials-icon'>CV</p></a>
+              <a href={cv} target='_blank' className='border'><p className='socials-icon'>CV</p></a>
             </div>
           </div>
           <div style={{width:'100%', display:'flex',flexDirection:'column', alignItems:'center', rowGap:'12px'}}>
