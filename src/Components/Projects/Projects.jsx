@@ -4,6 +4,7 @@ import projectsList from "../../Projects.json"
 import ProjectCard from '../ProjectCard/ProjectCard';
 import { FiGithub } from "react-icons/fi";
 
+
 function Projects() {
   return (
     <Element className="projects-div padding" name="projects">
