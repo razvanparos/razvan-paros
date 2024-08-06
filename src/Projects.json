@@ -21,6 +21,16 @@
     },
     {
         "id":2,
+        "title":"Kanban",
+        "description":"Task management app",
+        "github":"https://github.com/razvanparos/kanban",
+        "live":"https://kanban-eta-one.vercel.app/",
+        "img1":"kanban1",
+        "img2":"",
+        "img3":""
+    },
+    {
+        "id":3,
         "title":"Entertainment App",
         "description":"Movies and TV series application",
         "github":"https://github.com/razvanparos/entertainment-app-frontend",
@@ -30,7 +40,7 @@
         "img3":""
     },
     {
-        "id":3,
+        "id":4,
         "title":"Feedback App",
         "description":"Create, read, update, and delete product feedback requests",
         "github":"https://github.com/razvanparos/feedback-app",
@@ -40,7 +50,7 @@
         "img3":""
     },
     {
-        "id":4,
+        "id":5,
         "title":"Wallet App",
         "description":"Money management application",
         "github":"https://github.com/razvanparos/WalletApp",
@@ -48,16 +58,6 @@
         "img1":"wallet1",
         "img2":"",
         "img3":"" 
-    },
-    {
-        "id":5,
-        "title":"AutoRent",
-        "description":"Car rent application",
-        "github":"https://github.com/razvanparos/auto-rent",
-        "live":"https://auto-rent-pi.vercel.app/",
-        "img1":"auto1",
-        "img2":"",
-        "img3":""
     }
 ]
     

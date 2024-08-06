@@ -11,6 +11,7 @@ import ent1 from '../Assets/ent1.jpg'
 import feedback1 from '../Assets/feedback1.jpg'
 import wallet1 from '../Assets/wallet1.jpg'
 import auto1 from '../Assets/auto1.jpg'
+import kanban1 from '../Assets/kanban1.png'
 const imageMap = {
   bankpick1,
   bankpick2,
@@ -21,7 +22,8 @@ const imageMap = {
   ent1,
   feedback1,
   wallet1,
-  auto1
+  auto1,
+  kanban1
 };
 
 function ProjectCard(props) {
