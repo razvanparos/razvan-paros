@@ -2,7 +2,7 @@ import './Contact.css';
 import { Link } from 'react-scroll';
 import { FaLinkedinIn } from "react-icons/fa6";
 import { FiGithub } from "react-icons/fi";
-import cv from '../Assets/Răzvan-Paroș-Aug.pdf';
+import cv from '../Assets/Răzvan-Paroș-CV-2025.pdf'
 
 
 function Contact() {
