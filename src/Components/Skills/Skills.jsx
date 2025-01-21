@@ -51,25 +51,6 @@ function Skills() {
             <p>GitHub</p>
           </div>
         </div>
-        <p>Currently learning:</p>
-        <div className='skills-learn'>
-          <div className='skill'>
-            <SiRedux className='icon'/>
-            <p>Redux</p>
-          </div>
-          <div className='skill'>
-            <FaJava className='icon'/>
-            <p>Java</p>
-          </div>
-          <div className='skill'>
-            <SiSpringboot  className='icon'/>
-            <p>SpringBoot</p>
-          </div>
-          <div className='skill'>
-            <BiLogoPostgresql   className='icon'/>
-            <p>PostgreSQL</p>
-          </div>
-        </div>
     </Element>
   );
 }

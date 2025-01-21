@@ -1,5 +1,25 @@
 [
     {
+        "id":5,
+        "title":"Express Airlines",
+        "description":"Website for Airline Company",
+        "github":"https://github.com/razvanparos/express-airlines",
+        "live":"https://express-airlines.vercel.app/",
+        "img1":"express",
+        "img2":"",
+        "img3":"" 
+    },
+    {
+        "id":2,
+        "title":"Kanban",
+        "description":"Task management app",
+        "github":"https://github.com/razvanparos/kanban",
+        "live":"https://kanban-eta-one.vercel.app/",
+        "img1":"kanban1",
+        "img2":"",
+        "img3":""
+    },
+    {
         "id":0,
         "title":"Bankpick",
         "description":"Mobile app for online banking",
@@ -20,16 +40,6 @@
         "img3":"delivery3"
     },
     {
-        "id":2,
-        "title":"Kanban",
-        "description":"Task management app",
-        "github":"https://github.com/razvanparos/kanban",
-        "live":"https://kanban-eta-one.vercel.app/",
-        "img1":"kanban1",
-        "img2":"",
-        "img3":""
-    },
-    {
         "id":3,
         "title":"Entertainment App",
         "description":"Movies and TV series application",
@@ -48,16 +58,6 @@
         "img1":"feedback1",
         "img2":"",
         "img3":""
-    },
-    {
-        "id":5,
-        "title":"Wallet App",
-        "description":"Money management application",
-        "github":"https://github.com/razvanparos/WalletApp",
-        "live":"https://wallet-app-puce.vercel.app/",
-        "img1":"wallet1",
-        "img2":"",
-        "img3":"" 
     }
 ]
     
