@@ -7,12 +7,11 @@ import bankpick3 from "../Assets/bankpick3.jpg";
 import delivery1 from "../Assets/delivery1.jpg";
 import delivery2 from "../Assets/delivery2.jpg";
 import delivery3 from "../Assets/delivery3.jpg";
-import ent1 from "../Assets/ent1.jpg";
 import feedback1 from "../Assets/feedback1.jpg";
 import wallet1 from "../Assets/wallet1.jpg";
-import auto1 from "../Assets/auto1.jpg";
 import kanban1 from "../Assets/kanban1.png";
 import express from "../Assets/express.png";
+import blog from "../Assets/blog.jpg";
 const imageMap = {
   bankpick1,
   bankpick2,
@@ -20,12 +19,11 @@ const imageMap = {
   delivery1,
   delivery2,
   delivery3,
-  ent1,
   feedback1,
   wallet1,
-  auto1,
   kanban1,
   express,
+  blog
 };
 
 function ProjectCard(props) {

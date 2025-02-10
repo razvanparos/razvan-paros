@@ -1,64 +1,63 @@
 [
-    {
-        "id":5,
-        "title":"Express Airlines",
-        "description":"Website for Airline Company",
-        "github":"https://github.com/razvanparos/express-airlines",
-        "live":"https://express-airlines.vercel.app/",
-        "img1":"express",
-        "img2":"",
-        "img3":"" 
-    },
-    {
-        "id":2,
-        "title":"Kanban",
-        "description":"Task management app",
-        "github":"https://github.com/razvanparos/kanban",
-        "live":"https://kanban-eta-one.vercel.app/",
-        "img1":"kanban1",
-        "img2":"",
-        "img3":""
-    },
-    {
-        "id":0,
-        "title":"Bankpick",
-        "description":"Mobile app for online banking",
-        "github":"https://github.com/razvanparos/bankpick",
-        "live":"https://bankpick-razvanparos-projects.vercel.app/",
-        "img1":"bankpick1",
-        "img2":"bankpick2",
-        "img3":"bankpick3"
-    },
-    {
-        "id":1,
-        "title":"Delivery App",
-        "description":"Food delivery app",
-        "github":"https://github.com/razvanparos/delivery-app",
-        "live":"https://delivery-app-liart-eta.vercel.app/",
-        "img1":"delivery1",
-        "img2":"delivery2",
-        "img3":"delivery3"
-    },
-    {
-        "id":3,
-        "title":"Entertainment App",
-        "description":"Movies and TV series application",
-        "github":"https://github.com/razvanparos/entertainment-app-frontend",
-        "live":"https://entertainment-app-frontend-six.vercel.app/",
-        "img1":"ent1",
-        "img2":"",
-        "img3":""
-    },
-    {
-        "id":4,
-        "title":"Feedback App",
-        "description":"Create, read, update, and delete product feedback requests",
-        "github":"https://github.com/razvanparos/feedback-app",
-        "live":"https://feedback-app-nine-cyan.vercel.app/",
-        "img1":"feedback1",
-        "img2":"",
-        "img3":""
-    }
+  {
+    "id": 5,
+    "title": "Express Airlines",
+    "description": "Website for Airline Company",
+    "github": "https://github.com/razvanparos/express-airlines",
+    "live": "https://express-airlines.vercel.app/",
+    "img1": "express",
+    "img2": "",
+    "img3": ""
+  },
+  {
+    "id": 0,
+    "title": "Bankpick",
+    "description": "Mobile app for online banking",
+    "github": "https://github.com/razvanparos/bankpick",
+    "live": "https://bankpick.vercel.app/",
+    "img1": "bankpick1",
+    "img2": "bankpick2",
+    "img3": "bankpick3"
+  },
+  {
+    "id": 3,
+    "title": "Blog Admin",
+    "description": "Blog admin dashboard for posts and users management",
+    "github": "https://github.com/razvanparos/blog-admin",
+    "live": "https://blog-admin-coral.vercel.app/login",
+    "img1": "blog",
+    "img2": "",
+    "img3": ""
+  },
+  {
+    "id": 2,
+    "title": "Kanban",
+    "description": "Task management app",
+    "github": "https://github.com/razvanparos/kanban",
+    "live": "https://kanban-eta-one.vercel.app/",
+    "img1": "kanban1",
+    "img2": "",
+    "img3": ""
+  },
+
+  {
+    "id": 1,
+    "title": "Delivery App",
+    "description": "Food delivery app",
+    "github": "https://github.com/razvanparos/delivery-app",
+    "live": "https://delivery-app-liart-eta.vercel.app/",
+    "img1": "delivery1",
+    "img2": "delivery2",
+    "img3": "delivery3"
+  },
+  {
+    "id": 4,
+    "title": "Feedback App",
+    "description": "Create, read, update, and delete product feedback requests",
+    "github": "https://github.com/razvanparos/feedback-app",
+    "live": "https://feedback-app-nine-cyan.vercel.app/",
+    "img1": "feedback1",
+    "img2": "",
+    "img3": ""
+  }
 ]
-    
-        
