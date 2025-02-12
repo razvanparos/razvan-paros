@@ -1,9 +1,7 @@
 import "./ProjectCard.css";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { IoLogoGithub } from "react-icons/io";
-import bankpick1 from "../Assets/bankpick1.jpg";
-import bankpick2 from "../Assets/bankpick2.jpg";
-import bankpick3 from "../Assets/bankpick3.jpg";
+import bank1 from "../Assets/bank1.png";
 import delivery1 from "../Assets/delivery1.jpg";
 import delivery2 from "../Assets/delivery2.jpg";
 import delivery3 from "../Assets/delivery3.jpg";
@@ -13,9 +11,7 @@ import kanban1 from "../Assets/kanban1.png";
 import express from "../Assets/express.png";
 import blog from "../Assets/blog.jpg";
 const imageMap = {
-  bankpick1,
-  bankpick2,
-  bankpick3,
+  bank1,
   delivery1,
   delivery2,
   delivery3,

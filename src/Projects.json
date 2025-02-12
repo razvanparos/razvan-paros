@@ -15,9 +15,7 @@
     "description": "Mobile app for online banking",
     "github": "https://github.com/razvanparos/bankpick",
     "live": "https://bankpick.vercel.app/",
-    "img1": "bankpick1",
-    "img2": "bankpick2",
-    "img3": "bankpick3"
+    "img1": "bank1"
   },
   {
     "id": 3,
